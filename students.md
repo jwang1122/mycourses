@@ -62,6 +62,7 @@ Zhuang, Alexander | agringirl@yahoo.com     | 713-865-6620
 Zhuang, Andrew    | agringirl@yahoo.com     | 713-865-6620
 Duan, Daniel      | laurawang.pek@gmail.com | 832-407-8479
 Liang, Jessie     | peizhen.zhu@gmail.com   | 720-300-3023
+Xu, Chloe         | hongxianzhang@yahoo.com | 281-712-6586
  
     * Friday 6:00-8:00pm
 Name | email | phone
